@@ -5,5 +5,5 @@ Cloud infrastructure engineer focused on AWS and AI-augmented operations. I buil
 **Currently building:** an open-source SRE agent on Amazon Bedrock AgentCore + MCP, evaluated against a deliberate outage simulator on a production-style AWS stack. The project mirrors the architecture of the productized AI ops tools that shipped in late 2025 and early 2026, built small enough to reason about end-to-end.
 
 **Location:** New York metro — open to relocation in major US cloud markets
-**Contact:** dimitrije.vedda@hotmail.com
+**Contact:** dimitrije.vedda@outlook.com
 **Recent work:** [devops-learning](https://github.com/Dimi-DV/devops-learning) — Terraform, Docker, ECS Fargate, GitHub Actions, AWS
